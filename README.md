@@ -1,6 +1,7 @@
-# New Project
+# Simple React Jokes fetcher app using React Hooks
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+Uses ky to and dad jokes api to fetch jokes
+
 
 ## Available Scripts
 
